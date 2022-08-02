@@ -29,7 +29,7 @@ Want to know more about me? Check out [preetpatel.com](https://preetpatel.com/)
 
 [![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 [![](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com/)
-
+[![](https://img.shields.io/badge/Tailwind-152342?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 ### Test
 
 [![](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
@@ -45,6 +45,8 @@ Want to know more about me? Check out [preetpatel.com](https://preetpatel.com/)
 [![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)](https://www.figma.com/)
 [![](https://img.shields.io/badge/Sketch-fa6400?style=for-the-badge&logo=Sketch&logoColor=white)](https://www.sketch.com/)
 [![](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
+[![](https://img.shields.io/badge/Premiere_Pro-3D3571?style=for-the-badge&logo=Adobe-Premiere-pro&logoColor=white)](https://www.adobe.com/products/premiere.html)
+
 
 ## 🤓 Stats
 
