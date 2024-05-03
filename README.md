@@ -7,7 +7,7 @@
 
 ## 👋 Kia Ora! 
 
-My name is Preet Patel and I'm a product development engineer (basically a software engineer who works on new product ideas) at MATTR Labs. I love to tell stories through the projects that I work on. I primarily work on the web side of things but also have a keen interest in iOS programming
+My name is Preet Patel and I'm the lead Product Engineer at MATTR Labs. I love to tell stories through the projects that I work on. I primarily work on the web side of things but also have a keen interest in iOS programming
 
 Want to know more about me? Check out [preetpatel.com](https://preetpatel.com/)
 
