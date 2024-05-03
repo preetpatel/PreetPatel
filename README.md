@@ -47,11 +47,3 @@ Want to know more about me? Check out [preetpatel.com](https://preetpatel.com/)
 [![](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
 [![](https://img.shields.io/badge/Premiere_Pro-3D3571?style=for-the-badge&logo=Adobe-Premiere-pro&logoColor=white)](https://www.adobe.com/products/premiere.html)
 
-
-## 🤓 Stats
-
-<br>
-
-<a href="https://github.com/preetpatel">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=preetpatel&hide_border=true&show_icons=true&line_height=28&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=58a6ff&bg_color=161b22" alt="Preet's GitHub Stats" />
-</a>
