@@ -5,5 +5,5 @@
 
 ## 👋 Kia Ora! 
 
-My name is Preet Patel and I'm the Head of MARRE Labs. I love to tell stories through the projects that I work on. I primarily work on the web side of things but also have a keen interest in iOS programming
+My name is Preet Patel and I'm the Head of MATTR Labs. I love to tell stories through the projects that I work on. I primarily work on the web side of things but also have a keen interest in iOS programming
 
