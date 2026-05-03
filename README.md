@@ -5,5 +5,5 @@
 
 ## 👋 Kia Ora! 
 
-My name is Preet Patel and I'm the Head of MATTR Labs. I love to tell stories through the projects that I work on. I primarily work on the web side of things but also have an intrest in mobile dev
+My name is Preet Patel and I'm the Head of MATTR Labs. I love to tell stories through the projects that I work on. I primarily work on the web side of things but also have an interest in mobile dev
 
